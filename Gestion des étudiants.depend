@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1650386856 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\project 1\gestion des étudiants\accueil.c
+
+1650666789 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\project 1\gestion des étudiants\main.cpp
+	"head.h"
+
+1650659850 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\project 1\gestion des étudiants\menu.cpp
+	"head.h"
+
+1650661278 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\project 1\gestion des étudiants\accueil.cpp
+	"head.h"
+
+1650663937 c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\project 1\gestion des étudiants\head.h
+	<iostream>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1650390968 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\project 1\gestion des étudiants\demander le choix.cpp
+	"head.h"
+
+1650666177 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\project 1\gestion des étudiants\chercher.cpp
+	"head.h"
+
+1650660741 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\project 1\gestion des étudiants\modifier.cpp
+	"head.h"
+
+1650751204 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\project 1\gestion des étudiants\supprimer.cpp
+	"head.h"
+
+1650660710 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\project 1\gestion des étudiants\ajouter.cpp
+	"head.h"
+
+1650661084 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\project 1\gestion des étudiants\option.cpp
+	"head.h"
+
+1650660249 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\project 1\gestion des étudiants\nouveau.cpp
+	"head.h"
+
+1650660024 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\project 1\gestion des étudiants\affichage.cpp
+	"head.h"
+
+1650667245 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\project 1\gestion des étudiants\support.cpp
+	"head.h"
+
+1650661278 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\projets\gestion des étudiants\accueil.cpp
+	"head.h"
+
+1650663937 c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\projets\gestion des étudiants\head.h
+	<iostream>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1650660024 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\projets\gestion des étudiants\affichage.cpp
+	"head.h"
+
+1650660710 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\projets\gestion des étudiants\ajouter.cpp
+	"head.h"
+
+1650666177 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\projets\gestion des étudiants\chercher.cpp
+	"head.h"
+
+1650390968 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\projets\gestion des étudiants\demander le choix.cpp
+	"head.h"
+
+1650666789 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\projets\gestion des étudiants\main.cpp
+	"head.h"
+
+1650659850 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\projets\gestion des étudiants\menu.cpp
+	"head.h"
+
+1650660741 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\projets\gestion des étudiants\modifier.cpp
+	"head.h"
+
+1650660249 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\projets\gestion des étudiants\nouveau.cpp
+	"head.h"
+
+1650661084 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\projets\gestion des étudiants\option.cpp
+	"head.h"
+
+1650667245 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\projets\gestion des étudiants\support.cpp
+	"head.h"
+
+1650751204 source:c:\users\new hp\desktop\a t h e n a\s t u d i e s\cpp\projets\gestion des étudiants\supprimer.cpp
+	"head.h"
+
+1650664878 source:a:\a t h e n a\s t u d i e s\s2\cpp\projets\gestion des étudiants\accueil.cpp
+	"head.h"
+
+1650667537 a:\a t h e n a\s t u d i e s\s2\cpp\projets\gestion des étudiants\head.h
+	<iostream>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1650663624 source:a:\a t h e n a\s t u d i e s\s2\cpp\projets\gestion des étudiants\affichage.cpp
+	"head.h"
+
+1650664310 source:a:\a t h e n a\s t u d i e s\s2\cpp\projets\gestion des étudiants\ajouter.cpp
+	"head.h"
+
+1650669777 source:a:\a t h e n a\s t u d i e s\s2\cpp\projets\gestion des étudiants\chercher.cpp
+	"head.h"
+
+1650394568 source:a:\a t h e n a\s t u d i e s\s2\cpp\projets\gestion des étudiants\demander le choix.cpp
+	"head.h"
+
+1650670389 source:a:\a t h e n a\s t u d i e s\s2\cpp\projets\gestion des étudiants\main.cpp
+	"head.h"
+
+1650663450 source:a:\a t h e n a\s t u d i e s\s2\cpp\projets\gestion des étudiants\menu.cpp
+	"head.h"
+
+1650664341 source:a:\a t h e n a\s t u d i e s\s2\cpp\projets\gestion des étudiants\modifier.cpp
+	"head.h"
+
+1650663849 source:a:\a t h e n a\s t u d i e s\s2\cpp\projets\gestion des étudiants\nouveau.cpp
+	"head.h"
+
+1650664684 source:a:\a t h e n a\s t u d i e s\s2\cpp\projets\gestion des étudiants\option.cpp
+	"head.h"
+
+1650670845 source:a:\a t h e n a\s t u d i e s\s2\cpp\projets\gestion des étudiants\support.cpp
+	"head.h"
+
+1650754804 source:a:\a t h e n a\s t u d i e s\s2\cpp\projets\gestion des étudiants\supprimer.cpp
+	"head.h"
+
